@@ -1,0 +1,9 @@
+max amount on board: 6
+max amount on board: 25
+max amount on board: 7
+max amount on board: 15
+max amount on board: 20
+max amount on board: 6
+max amount on board: 28
+max amount on board: 8
+max amount on board: 7
